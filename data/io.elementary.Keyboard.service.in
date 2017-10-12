@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.gnome.Caribou.Keyboard
+Exec=@EXEC_NAME@
