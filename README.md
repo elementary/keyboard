@@ -3,6 +3,7 @@
 ## Building, Testing, and Installation
 
 You'll need the following dependencies:
+* caribou
 * libglib2.0-dev
 * libgtk-3-dev
 * libcaribou-dev
